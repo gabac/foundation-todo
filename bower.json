@@ -1,0 +1,9 @@
+{
+  "name": "foundation-todo",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "foundation": "~5.0.2"
+  }
+}
