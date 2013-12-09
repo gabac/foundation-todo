@@ -10,3 +10,7 @@ body, html {
 .off-canvas-wrap, .inner-wrap {
     height: 100%;
 }
+
+.checked label {
+    text-decoration: line-through;
+}
