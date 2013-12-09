@@ -7,5 +7,5 @@ Installation
 ------------
 
 ```
-bundle install
+bower install
 ```
